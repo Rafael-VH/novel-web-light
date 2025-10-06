@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JP/Japon.md",
+                "file": "Novel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Japon"
+              "title": "Novel"
             }
           }
         ],
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JP/Japon.md",
+                "file": "Novel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Japon"
+              "title": "Enlaces entrantes de Novel"
             }
           },
           {
@@ -126,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JP/Japon.md",
+                "file": "Novel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Japon"
+              "title": "Enlaces salientes de Novel"
             }
           },
           {
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JP/Japon.md",
+                "file": "Novel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Japon"
+              "title": "Esquema de Novel"
             }
           }
         ]
@@ -184,20 +184,18 @@
   },
   "active": "78ed3975cfe9287c",
   "lastOpenFiles": [
-    "JP/Easy Survival Life in the other world/Easy Survival Life in the other world.md",
-    "JP/Easy Survival Life in the other world/Vol 1/Volumen 1.md",
-    "JP/Easy Survival Life in the other world/Vol 2/Volumen 2.md",
-    "Plantilla.md",
-    "JP/Easy Survival Life in the other world/Vol 1/Vol 1 - Capítulo 20 - Trampa de rocas que caen y trampa.md",
-    "JP/Easy Survival Life in the other world/Vol 1/Vol 1 - Capítulo 21 - Reunión de contramedidas para invasores extranjeros.md",
     "Novel.md",
+    "JP/Japon.md",
+    "JP/Easy Survival Life in the other world/Easy Survival Life in the Other World.md",
+    "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 138 - Bono. Tour de supervivencia en la isla desierta 4 (R18).md",
+    "JP/Easy Survival Life in the other world/Vol 2/Volumen 2.md",
     "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 162 - Bono. Hanamizuki.md",
     "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 161 - Bono. El nombre de esa fruta es….md",
+    "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 160 - Bono. Pesca con sumideros venenosos.md",
     "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 159 - Bono. El escape de Sofía 4 (R18).md",
     "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 158 - Bono. El escape de Sofía 3.md",
     "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 157 - Bono. El escape de Sofía 2.md",
     "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 156 - Bono. El escape de Sofía 1.md",
-    "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 160 - Bono. Pesca con sumideros venenosos.md",
     "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 155 - Bono. Al menos no habrá arrepentimientos.md",
     "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 154 - Bono. Un espacio para mí.md",
     "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 153 - Bono. Pasado y Presente 3 (R18).md",
@@ -209,7 +207,9 @@
     "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 147 - Bono. Pacto de damas 1.md",
     "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 146 - Bono. sábado 21 de diciembre 4 (R18).md",
     "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 145 - Bono. 21 de diciembre, sábado 3 (R18).md",
-    "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 135 - Bono. Tour de supervivencia en la isla desierta 1.md",
+    "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 144 - Bono. 21 de diciembre (sábado) 2.md",
+    "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 143 - Bono. 21 de diciembre (sábado) 1.md",
+    "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 142 - Bono. Primera vez con Mana 3.md",
     "JP/Easy Survival Life in the other world/Vol 2",
     "JP/Easy Survival Life in the other world/Vol 1",
     "JP/Easy Survival Life in the other world",
