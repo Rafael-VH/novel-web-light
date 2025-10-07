@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "78ed3975cfe9287c",
+            "id": "9bea7d53221a72f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Novel.md",
+                "file": "EU/Marvel. I’m a Symbiote/Vol 1/Vol 1 - Capítulo 39.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,11 +117,26 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Novel"
+              "title": "Enlaces entrantes de Vol 1 - Capítulo 39"
             }
           },
           {
-            "id": "ed624a0ec8481ca7",
+            "id": "2f3457e4bf9a4cec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "EU/Marvel. I’m a Symbiote/Vol 1/Vol 1 - Capítulo 39.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Vol 1 - Capítulo 39"
+            }
+          },
+          {
+            "id": "b557db395ba60788",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -135,7 +150,7 @@
             }
           },
           {
-            "id": "bcf7e6c8c961c892",
+            "id": "36a86445a9b41198",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -150,18 +165,17 @@
             }
           },
           {
-            "id": "2f3457e4bf9a4cec",
+            "id": "c2b1eae4e6986cb4",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "all-properties",
               "state": {
-                "file": "Novel.md",
-                "followCursor": false,
+                "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-list",
-              "title": "Esquema de Novel"
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
             }
           }
         ]
@@ -182,34 +196,36 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "78ed3975cfe9287c",
+  "active": "9bea7d53221a72f0",
   "lastOpenFiles": [
     "Novel.md",
-    "JP/Japon.md",
-    "JP/Easy Survival Life in the other world/Easy Survival Life in the Other World.md",
-    "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 138 - Bono. Tour de supervivencia en la isla desierta 4 (R18).md",
-    "JP/Easy Survival Life in the other world/Vol 2/Volumen 2.md",
-    "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 162 - Bono. Hanamizuki.md",
-    "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 161 - Bono. El nombre de esa fruta es….md",
-    "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 160 - Bono. Pesca con sumideros venenosos.md",
-    "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 159 - Bono. El escape de Sofía 4 (R18).md",
-    "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 158 - Bono. El escape de Sofía 3.md",
-    "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 157 - Bono. El escape de Sofía 2.md",
-    "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 156 - Bono. El escape de Sofía 1.md",
-    "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 155 - Bono. Al menos no habrá arrepentimientos.md",
-    "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 154 - Bono. Un espacio para mí.md",
-    "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 153 - Bono. Pasado y Presente 3 (R18).md",
-    "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 152 - Bono. Pasado y Presente 2.md",
-    "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 151 - Bono. Pasado y Presente 1.md",
-    "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 150 - Bono. Pacto de damas 4.md",
-    "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 149 - Bono. Pacto de damas 3.md",
-    "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 148 - Bono. Pacto de damas 2.md",
-    "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 147 - Bono. Pacto de damas 1.md",
-    "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 146 - Bono. sábado 21 de diciembre 4 (R18).md",
-    "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 145 - Bono. 21 de diciembre, sábado 3 (R18).md",
-    "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 144 - Bono. 21 de diciembre (sábado) 2.md",
-    "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 143 - Bono. 21 de diciembre (sábado) 1.md",
-    "JP/Easy Survival Life in the other world/Vol 2/Vol 2 - Capítulo 142 - Bono. Primera vez con Mana 3.md",
+    "EU/Estados Unidos.md",
+    "EU/Marvel. I’m a Symbiote/Marvel. I’m a Symbiote.md",
+    "EU/Marvel. I’m a Symbiote/Vol 1/Volumen 1.md",
+    "EU/Marvel. I’m a Symbiote/Vol 1/Vol 1 - Capítulo 375 - Venganza 3.md",
+    "EU/Marvel. I’m a Symbiote/Vol 1/Vol 1 - Capítulo 374 - Venganza 2.md",
+    "EU/Marvel. I’m a Symbiote/Vol 1/Vol 1 - Capítulo 373 - Venganza 1.md",
+    "EU/Marvel. I’m a Symbiote/Vol 1/Vol 1 - Capítulo 372 - Sesión de terapia.md",
+    "EU/Marvel. I’m a Symbiote/Vol 1/Vol 1 - Capítulo 371 - Cambios.md",
+    "EU/Marvel. I’m a Symbiote/Vol 1/Vol 1 - Capítulo 370 - Expuesto 2.md",
+    "EU/Marvel. I’m a Symbiote/Vol 1/Vol 1 - Capítulo 369 - Expuesto 1.md",
+    "EU/Marvel. I’m a Symbiote/Vol 1/Vol 1 - Capítulo 368 - Tratamiento de princesa.md",
+    "EU/Marvel. I’m a Symbiote/Vol 1/Vol 1 - Capítulo 367 - Planificación de una infiltración.md",
+    "EU/Marvel. I’m a Symbiote/Vol 1/Vol 1 - Capítulo 366 - Sumisión 2 (R18).md",
+    "EU/Marvel. I’m a Symbiote/Vol 1/Vol 1 - Capítulo 365 - Sumisión 1 (R18).md",
+    "EU/Marvel. I’m a Symbiote/Vol 1/Vol 1 - Capítulo 364 - Regreso.md",
+    "EU/Marvel. I’m a Symbiote/Vol 1/Vol 1 - Capítulo 363 - Sistema de contribución.md",
+    "EU/Marvel. I’m a Symbiote/Vol 1/Vol 1 - Capítulo 362 - Solicitudes de vacaciones.md",
+    "EU/Marvel. I’m a Symbiote/Vol 1/Vol 1 - Capítulo 361 - Psiónica.md",
+    "EU/Marvel. I’m a Symbiote/Vol 1/Vol 1 - Capítulo 360 - Enmendando las cosas.md",
+    "EU/Marvel. I’m a Symbiote/Vol 1/Vol 1 - Capítulo 11 - Verificación de la realidad.md",
+    "EU/Marvel. I’m a Symbiote/Vol 1/Vol 1 - Capítulo 359 - Tangibilidad.md",
+    "EU/Marvel. I’m a Symbiote/Vol 1/Vol 1 - Capítulo 358 - Dudas.md",
+    "EU/Marvel. I’m a Symbiote/Vol 1/Vol 1 - Capítulo 357 - Cita para el almuerzo.md",
+    "EU/Marvel. I’m a Symbiote/Vol 1/Vol 1 - Capítulo 356 - Aislamiento 2.md",
+    "EU/Marvel. I’m a Symbiote/Vol 1/Vol 1 - Capítulo 355 - Aislamiento 1.md",
+    "EU/Marvel. I’m a Symbiote/Vol 1",
+    "EU/Marvel. I’m a Symbiote",
     "JP/Easy Survival Life in the other world/Vol 2",
     "JP/Easy Survival Life in the other world/Vol 1",
     "JP/Easy Survival Life in the other world",
@@ -217,8 +233,6 @@
     "JP/Shiniki no Campioness/Vol 3",
     "JP/Shiniki no Campioness/Vol 2",
     "JP/Shiniki no Campioness/Nueva carpeta",
-    "JP/Shiniki no Campioness/Vol 1",
-    "JP/Shiniki no Campioness",
-    "CN"
+    "JP/Shiniki no Campioness/Vol 1"
   ]
 }
